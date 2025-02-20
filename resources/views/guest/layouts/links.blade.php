@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="/guestassets/css/bootstrap.min.css">
+<link rel="stylesheet" href="/guestassets/css/fontawesome-all.css">
+<link rel="stylesheet" href="/guestassets/css/flaticon.css">
+<link rel="stylesheet" href="/guestassets/css/animate.css">
+<link rel="stylesheet" href="/guestassets/css/jquery.fancybox.min.css">
+<link rel="stylesheet" href="/guestassets/css/jquery.mCustomScrollbar.min.css">
+<link rel="stylesheet" href="/guestassets/css/odometer-theme-default.css">
+<link rel="stylesheet" href="/guestassets/css/owl.carousel.css">
+<link rel="stylesheet" href="/guestassets/css/nice-select.css">
+<link rel="stylesheet" href="/guestassets/css/lightbox.css">
+<link rel="stylesheet" href="/guestassets/css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
